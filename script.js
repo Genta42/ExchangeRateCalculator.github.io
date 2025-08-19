@@ -1,7 +1,7 @@
 const CURRENCIES = [
     { code: 'USD', name: 'US Dollar' },
     { code: 'EUR', name: 'Euro' },
-    { code: 'THB', name: 'Thai Baht' },
+    { code: 'THBs', name: 'Thai Baht' },
     {code:  'CNY', name: 'Chinese Yuan'},
     { code: 'JPY', name: 'Japanese Yen' },
 ]
