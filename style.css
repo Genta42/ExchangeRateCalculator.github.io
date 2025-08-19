@@ -45,11 +45,16 @@ p {
     background: transparent;
 }
 
+.currency input {
+    border: 0;
+    background: transparent;
+    font-size: 30px;
+    text-align: right;
+}
 .swap-rate-container {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-top: 20px;
 }
 
 .btn {
